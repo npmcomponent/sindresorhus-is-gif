@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/is-gif](http://github.com/sindresorhus/is-gif). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-is-gif`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # is-gif [![Build Status](https://travis-ci.org/sindresorhus/is-gif.svg?branch=master)](https://travis-ci.org/sindresorhus/is-gif)
 
 > Check if a Buffer/Uint8Array is a [GIF](http://en.wikipedia.org/wiki/Graphics_Interchange_Format) image
